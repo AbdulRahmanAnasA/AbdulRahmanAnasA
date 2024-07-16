@@ -11,9 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahmananas123456/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhayal-karthikeyan-3a9540226/" height="30" width="40" /></a>
-  <a href="https://leetcode.com/dhayalkarthikeyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhayalkarthikeyan/" height="30" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/dhayal073w/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abdulrahmanv4na/" height="30" width="40" /></a>
+  <a href="https://leetcode.com/dhayalkarthikeyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/AbdulRahmanAnasA/" height="30" width="40" /></a><a href="https://www.geeksforgeeks.org/user/abdulrahmanv4na/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abdulrahmanv4na/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulRahmanAnasA&show_icons=true&locale=en&layout=compact" alt="AbdulRahmanAnasA" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmananasa&show_icons=true&locale=en" alt="abdulrahmananasa" /></p>
 
 
 
