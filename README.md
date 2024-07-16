@@ -21,8 +21,10 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AbdulRahmanAnasA?theme=dark&font=Marcellus&ext=heatmap)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhayal-k&show_icons=true&locale=en&layout=compact" alt="dhayal-k" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulRahmanAnasA&show_icons=true&locale=en&layout=compact" alt="AbdulRahmanAnasA" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhayal-k&show_icons=true&locale=en" alt="dhayal-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhayal-k&" alt="dhayal-k" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRahmanAnasA&%22%20alt=%22AbdulRahmanAnasA" /></p>
+[![Abdul Rahman Anas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulRahmanAnasA&bg_color=000000&color=ffffff&line=149423&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
